@@ -14,7 +14,7 @@ Most of my work is game development, but **I'm open to building tools and applic
 Feel free to contact me @eklsn almost everywhere.
 
 ### 🚧 Currently Working On
-- Taipu - MonoGame audio-driven rhythm game
+- Taipu - MonoGame audio-driven rhythm game **(Main Project)**
 - ...A few unrevealed Godot projects
 
 ## I STRONGLY prohibit using my code as training data for AI. Nor do I tolerate vibecoding.
