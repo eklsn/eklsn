@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Eli
-I'm a mid-level game/software developer from Russia
+I'm a mid-level game and software developer based in Russia
 
 Here's a brief on my stack:
 - Godot 4 (GDScript/.NET) - Preferred engine since 2023 (~1000+ hours)
