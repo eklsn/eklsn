@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Eli
+I'm a mid-level game developer from Russia
 
-<!--
-**eklsn/eklsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a brief on my stack:
+- Godot 4 (GDScript/.NET) - Preferred engine since 2023 (~1000+ hours)
+- MonoGame + C# - Preferred framework, actively working with it since Jan 2026 (Taipu)
+- GameMaker Studio 2 (GML) - Basic knowledge, small experience with making prototypes. 
+- Java + libGDX + Android Studio - Built a small project (SpeedTap)
+- Python + Pygame - Brief knowledge.
+- I love tinkering with electronics and disassembling/modding binaries
 
-Here are some ideas to get you started:
+Most of my work is game development, but **I'm open to building tools and applications** with the technologies above.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me @eklsn almost everywhere.
+
+### 🚧 Currently Working On
+- Taipu - MonoGame audio-driven rhythm game
+- ...A few unrevealed Godot projects
+
+## I STRONGLY prohibit using my code as training data for AI. Nor do I tolerate vibecoding.
+Although, I do use AI as a reference tool(similar to StackOverflow) and for temporary placeholders I rewrite later on.
