@@ -8,6 +8,7 @@ Here's a brief on my stack:
 - Java + libGDX + Android Studio - Built a small project (SpeedTap)
 - Python + Pygame - Brief knowledge.
 - I love tinkering with electronics and disassembling/modding binaries
+- I speak English freely (B2+) and feel comfortable in English speaking development teams.
 
 Most of my work is game development, but **I'm open to building tools and applications** with the technologies above.
 
