@@ -6,9 +6,7 @@ Here's a brief on my stack:
 - MonoGame + C#(.NET/VS) - Preferred framework, actively working with it since Jan 2026 ([Taipu](https://github.com/eklsn/Taipu))
 - GameMaker Studio 2 (GML) - Basic knowledge, small experience with making prototypes. 
 - Java + libGDX + Android Studio - Built a small project ([SpeedTap](https://github.com/eklsn/SpeedTap))
-- Python + Pygame - Brief knowledge.
-- WinForms / Visual Basic - Small prototypes.
-- Adobe Flash + ActionScript 2.0 - Small prototypes.
+- Python + Pygame, WinForms, Flash/ActionScript 2.0 – Small prototypes
 - I love tinkering with electronics and disassembling/modding binaries
 - I speak English freely (B2+) and feel comfortable in English speaking development teams.
 
