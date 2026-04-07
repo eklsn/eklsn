@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Eli
+## 👋 Hi, I'm EKLSN
 I'm a mid-level game and software developer based in Russia
 
 Here's a brief on my stack:
