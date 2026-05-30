@@ -4,6 +4,7 @@ I'm a mid-level game and software developer based in Russia, getting stuff done 
 Here's a brief on my stack:
 - Godot 4 (GDScript/.NET) - Preferred engine since 2023 (~1000+ hours, [one of the projects](https://github.com/eklsn/HappyBirthdaySolstice)) 
 - MonoGame + C#(.NET/VS) - Preferred framework, actively working with it since Jan 2026 ([Taipu](https://github.com/eklsn/Taipu))
+- Unity - No projects done, but I do have a clear understanding about how to work with it.
 - GameMaker Studio 2 (GML) - Basic knowledge, small experience with making prototypes. 
 - Java + libGDX + Android Studio - Built a small project ([SpeedTap](https://github.com/eklsn/SpeedTap))
 - Python + Pygame, WinForms, Flash/ActionScript 2.0 – Small prototypes
