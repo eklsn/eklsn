@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm EKLSN
-I'm a mid-level game and software developer based in Russia
+I'm a mid-level game and software developer based in Russia, getting stuff done since 2019.
 
 Here's a brief on my stack:
 - Godot 4 (GDScript/.NET) - Preferred engine since 2023 (~1000+ hours, [one of the projects](https://github.com/eklsn/HappyBirthdaySolstice)) 
