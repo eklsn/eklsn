@@ -9,8 +9,9 @@ Here's a brief on my stack:
 - GameMaker Studio 2 (GML) - Basic knowledge, small experience with making prototypes. 
 - Java + libGDX + Android Studio - Built a small project ([SpeedTap](https://github.com/eklsn/SpeedTap))
 - Python + Pygame, WinForms, Flash/ActionScript 2.0 – Small prototypes
+- Raylib (C++) - Experimenting n learning
 - I love tinkering with electronics and disassembling/modding binaries
-- I speak English freely (B2+) and feel comfortable in English speaking development teams.
+- I speak English freely (C1) and feel comfortable in English speaking development teams.
 
 Most of my work is game development, but **I'm open to building tools and applications** with the technologies above.
 
